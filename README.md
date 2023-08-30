@@ -18,7 +18,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
  <br>
  
 <div>
-  <!--<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
+  <a href="https://www.linkedin.com/in/maria-clara-34904028b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=        for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  <!-- ![Animação de cobra](https://github.com/MariaClara-1005/MariaClara-1005/blob/output/github-contribution-grid-snake.svg)
 -->
